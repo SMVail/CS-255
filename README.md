@@ -1,7 +1,7 @@
 # CS-255
 
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
-- The DriverPass project was an introductory project helping a client stay within budget during a sepcified timeframe to accomplish a functional and integrating system for users to practice, study, and schedule driving lessons all while staying compliant with the DMV's current guidelines. The client and also owner of DriverPass, Liam, along with his IT partner Ian, wanted a cloud-based system to make it easier for access both on and offline, and access stored data when necessary.
+- The DriverPass project was an introductory project helping a client stay within budget during a specified timeframe to accomplish a functional and integrating system for users to practice, study, and schedule driving lessons all while staying compliant with the DMV's current guidelines. The client and also owner of DriverPass, Liam, along with his IT partner Ian, wanted a cloud-based system to make it easier for access both on and offline, and access stored data when necessary.
   
 What did you do particularly well?
 - I feel that I did a thorough job explaining in detail the business requirements of the system and it's design. I was then able to inerpret some of that information into the Client Presentation Slides. Both of these documents are attached above. I also feel that I engage thoroughly in the discussions posts in class, but will not reflect here.
